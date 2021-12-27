@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sign Up and Sign In</string>
+    <string name="get_started_by_logging_into_your_account">Get started by logging into your account</string>
+    <string name="enter_your_email_or_phone_number">Enter your email or phone number</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
